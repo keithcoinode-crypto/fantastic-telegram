@@ -1,0 +1,1 @@
+from wendell_triangulation_app import app
